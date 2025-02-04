@@ -9,3 +9,4 @@ presente na Figura 2):
 1) Microcontrolador Raspberry Pi Pico W.
 2) 03 LEDs (vermelho, amarelo e verde).
 3) 03 Resistores de 330 Ω.
+.
