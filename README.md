@@ -12,7 +12,7 @@ presente na Figura 2):
 
 1) Microcontrolador Raspberry Pi Pico W.
 2) 03 LEDs (vermelho, amarelo e verde).
-3) 03 Resistores de 330   
+3) 03 Resistores de 330.   
 
 ## Os requisitos para a realização desta atividade são:
 
@@ -30,4 +30,4 @@ segundo (1.000 ms) - a mensagem enviada pela porta serial fica
 a critério do discente.
 5) Com o emprego da Ferramenta Educacional BitDogLab, faça
 um experimento com o código deste exercício utilizando o LED
-RGB – GPIOs 11, 12 e 13
+RGB – GPIOs 11, 12 e 13.
